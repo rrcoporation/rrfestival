@@ -1,7 +1,6 @@
 <application>
   <component name="GithubSettings">
-    <option name="LOGIN" value="fimtrus@gmail.com" />
-    <option name="HOST" value="https://github.com" />
+    <option name="LOGIN" value="rr.coporation@gmail.com" />
     <option name="AUTH_TYPE" value="BASIC" />
   </component>
 </application>
