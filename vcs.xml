@@ -3,26 +3,43 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="https://chakangost@bitbucket.org/zeroweb-tech/lime-android.git" />
+          <option name="url" value="https://bitbucket.org/zeroweb-tech/trekker2/src" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/rrcoporation/aaa.git" />
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="fimtrus@gmail.com" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bitbucket.org/zeroweb-tech/trekkertool-ionic/src" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/rrcoporation/test2.git" />
+          <option name="url" value="https://bitbucket.org/zeroweb-tech/trekkertool-ionic/branch/trekker-64" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/fimtrus/loan_migrated" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bitbucket.org/zeroweb-tech/lime-android/src" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/chakangost/rrfestival" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://github.com/rrcoporation/festival.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/chakangost/rrfestival.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\App" />
-  </component>
-  <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="C:\App\rr_reaf" />
+    <option name="cloneParentDir" value="$USER_HOME$/Projects" />
   </component>
 </application>
