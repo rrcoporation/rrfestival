@@ -3,6 +3,7 @@
     <option name="customScope" value="Directory 'C:\App\lime-android'" />
     <option name="defaultScopeName" value="Directory 'C:\App\lime-android'" />
     <option name="SEARCH_SCOPE" value="Directory 'C:\App\lime-android'" />
+    <option name="FILE_MASK" value="*.java, *.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -14,6 +15,7 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>build.gradle</mask>
+      <mask>*.java, *.xml</mask>
     </recentFileMasks>
   </component>
 </application>
