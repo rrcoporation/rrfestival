@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java, *.xml" />
+    <option name="FILE_MASK" value="*.java, *.xml, *.gradle" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -16,6 +16,7 @@
       <mask>build.gradle</mask>
       <mask>*.java</mask>
       <mask>*.java, *.xml</mask>
+      <mask>*.java, *.xml, *.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
