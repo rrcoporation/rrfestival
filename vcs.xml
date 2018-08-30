@@ -46,6 +46,10 @@
           <option name="url" value="http://bitbucket.org/zeroweb-tech/bubi-call/src" />
           <option name="userName" value="Fimt" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git-codecommit.ap-northeast-2.amazonaws.com/v1/repos/library-android" />
+          <option name="userName" value="library-at-034473298427" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Projects" />
